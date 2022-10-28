@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nordi482.github.io/csb-bdflxm/static/css/main.f9e28fa8.chunk.css",
+    "main.js": "https://nordi482.github.io/csb-bdflxm/static/js/main.39f78449.chunk.js",
+    "main.js.map": "https://nordi482.github.io/csb-bdflxm/static/js/main.39f78449.chunk.js.map",
+    "runtime-main.js": "https://nordi482.github.io/csb-bdflxm/static/js/runtime-main.1d1352f8.js",
+    "runtime-main.js.map": "https://nordi482.github.io/csb-bdflxm/static/js/runtime-main.1d1352f8.js.map",
+    "static/js/2.17ed6e68.chunk.js": "https://nordi482.github.io/csb-bdflxm/static/js/2.17ed6e68.chunk.js",
+    "static/js/2.17ed6e68.chunk.js.map": "https://nordi482.github.io/csb-bdflxm/static/js/2.17ed6e68.chunk.js.map",
+    "index.html": "https://nordi482.github.io/csb-bdflxm/index.html",
+    "static/css/main.f9e28fa8.chunk.css.map": "https://nordi482.github.io/csb-bdflxm/static/css/main.f9e28fa8.chunk.css.map",
+    "static/js/2.17ed6e68.chunk.js.LICENSE.txt": "https://nordi482.github.io/csb-bdflxm/static/js/2.17ed6e68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d1352f8.js",
+    "static/js/2.17ed6e68.chunk.js",
+    "static/css/main.f9e28fa8.chunk.css",
+    "static/js/main.39f78449.chunk.js"
+  ]
+}
